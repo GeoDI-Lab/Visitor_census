@@ -7,5 +7,6 @@ Seven MSAs include Los Angeles–Long Beach–Anaheim (LA), Houston–Pasadena�
 * Visit-based aggregation census table (e.g., Atlanta_visit_July2021.csv): one file
 * One-week (July 19-25, 2021) intermediate home-visit table (e.g., Atlanta_homevisit_July21.csv.gz): seven files
 * Geographic boundary file at CBG level (e.g., Atlanta_cbg.geojson): one file
+
 The folders and files are organized as follows.
 ## Code Usage Guide
