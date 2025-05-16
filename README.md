@@ -8,5 +8,14 @@ Seven MSAs include Los Angeles–Long Beach–Anaheim (LA), Houston–Pasadena�
 * One-week (July 19-25, 2021) intermediate home-visit table (e.g., Atlanta_homevisit_July21.csv.gz): seven files
 * Geographic boundary file at CBG level (e.g., Atlanta_cbg.geojson): one file
 
-The folders and files are organized as follows.
+The folders and files are organized as follows.  
+project  
+|-- code    
+|-- Atlanta  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visitor_July2021.csv  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visit_July2021.csv  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_homevisit_July19.csv.gz  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_homevisit_July20.csv.gz  
+|&nbsp;&nbsp;&nbsp;&nbsp;`-- ...  
+
 ## Code Usage Guide
