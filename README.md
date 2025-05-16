@@ -1,3 +1,4 @@
+# A visitor-enriched census in the U.S. cities using large-scale mobile positioning data
 Seven MSAs include Angeles–Long Beach–Anaheim (LA), Houston–The Woodlands–Sugar Land (Houston), Atlanta–Sandy Springs–Alpharetta (Atlanta), Miami–Fort Lauderdale–Pompano beach (Miami), Seattle–Tacoma–Bellevue (Seattle), Denver–Aurora–Lakewood (Denver), and Minneapolis-Saint. Paul (Twin Cities). There are ten files for each MSA:
 * Visitor-based aggregation census table (e.g., Atlanta_visitor_July2021.csv): one file
 * Visit-based aggregation census table (e.g., Atlanta_visit_July2021.csv): one file
