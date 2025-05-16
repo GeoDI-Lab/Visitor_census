@@ -12,6 +12,7 @@ The folders and files are organized as follows.
 project  
 |-- code    
 |-- Atlanta  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_cbg.geojson    
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visitor_July2021.csv  
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visit_July2021.csv  
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_homevisit_July19.csv.gz  
