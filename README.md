@@ -10,7 +10,8 @@ Seven MSAs include Los Angeles–Long Beach–Anaheim (LA), Houston–Pasadena�
 
 The folders and files are organized as follows.  
 project  
-|-- code    
+|-- code  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- demo_data  
 |-- Atlanta  
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_cbg.geojson    
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visitor_July2021.csv  
