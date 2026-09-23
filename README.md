@@ -5,6 +5,7 @@ Census data, as a traditional data source of resident socio-demographics, provid
 Seven MSAs include Los Angeles–Long Beach–Anaheim (LA), Houston–Pasadena–The Woodlands (Houston), Atlanta–Sandy Springs–Roswell (Atlanta), Miami–Fort Lauderdale–West Palm Beach (Miami), Seattle–Tacoma–Bellevue (Seattle), Denver–Aurora–Centennial (Denver), and Minneapolis-Saint. Paul (Twin Cities). There are ten files for each MSA:
 * Visitor-based aggregation census table (e.g., Atlanta_visitor_July2021.csv): one file
 * Visit-based aggregation census table (e.g., Atlanta_visit_July2021.csv): one file
+* Resident (original) census table (e.g., Atlanta_resident_July2021.csv): one file
 * One-week (July 19-25, 2021) intermediate home-visit table (e.g., Atlanta_homevisit_July21.csv.gz): seven files
 * Geographic boundary file at CBG level (e.g., Atlanta_cbg.geojson): one file
 
@@ -14,7 +15,8 @@ project
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- demo_data  
 |-- Atlanta  
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_cbg.geojson    
-|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visitor_July2021.csv  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_resident_July2021.csv   
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visit_July2021.csv   
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_visit_July2021.csv  
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_homevisit_July19.csv.gz  
 |&nbsp;&nbsp;&nbsp;&nbsp;|-- Atlanta_homevisit_July20.csv.gz  
